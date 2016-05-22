@@ -1,0 +1,21 @@
+/*
+Theme Name: ResponsiveCDC
+Theme URI: http://cyberchimps.com/responsive-theme/
+Template: responsive
+Author: Shilpa Subramanian
+Author URI: https://plus.google.com/u/0/104090895419502449544
+Description: Responsive Theme, modified for Chitra Dental Clinic
+Tags: white,black,gray,light,custom-menu,custom-header,custom-background,one-column,two-columns,left-sidebar,right-sidebar,theme-options,threaded-comments,full-width-template,sticky-post,translation-ready,rtl-language-support,responsive-layout,fluid-layout,featured-images
+Version: 1.9.8.2.1463936962
+Updated: 2016-05-22 17:09:22
+
+*/
+.menu {
+background-image: linear-gradient(to bottom, #E77310, #784119);
+}
+.menu a:hover {
+background-image: linear-gradient(to bottom, #59C1F2, #363636);
+}
+.menu > li:first-child > a:hover {
+background-image: linear-gradient(to bottom, #59C1F2, #363636);
+}
